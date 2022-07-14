@@ -1,5 +1,7 @@
 Graduate student at Yonsei University, majaoring in Statistics and Data Science.
+
 Research field: computer vision
+
 Research interests: noisy label, self-supervised representation learning, etc.
 
 <!---
