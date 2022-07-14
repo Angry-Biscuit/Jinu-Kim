@@ -1,5 +1,6 @@
-Undergraduate student at Chung-Ang University, majaoring in Applied Statistics.
-
+Graduate student at Yonsei University, majaoring in Statistics and Data Science.
+Research field: computer vision
+Research interests: noisy label, self-supervised representation learning, etc.
 
 <!---
 NanoPyro/NanoPyro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
