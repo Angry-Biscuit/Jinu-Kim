@@ -1,6 +1,6 @@
 Graduate student at Yonsei University, majaoring in Statistics and Data Science.
 
-Research interests: noisy labels, self-supervised representation learning, etc.
+Research interests: noisy labels, self-supervised representation learning, and so on.
 
 https://ml.yonsei.ac.kr
 <!---
